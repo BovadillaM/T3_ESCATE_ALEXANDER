@@ -1,0 +1,87 @@
+﻿
+@{
+    ViewData["Title"] = "Libro de Arquitectura de Software";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    ViewData["Title"] = "Libros de Arquitectura de Software";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: rgb(136,135,135);
+            background: linear-gradient(90deg, rgba(136,135,135,0.7483368347338936) 0%, rgba(85,83,83,1) 100%);
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .book-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .book {
+            border: 1px solid #ddd;
+            padding: 10px;
+            border-radius: 8px;
+            text-align: center;
+            background-color: #fff;
+        }
+
+            .book img {
+                width: 100%;
+                height: auto;
+                border-radius: 8px;
+            }
+
+        .book-title {
+            font-size: 1.2em;
+            margin: 10px 0;
+        }
+
+        .book-description {
+            font-size: 0.9em;
+            color: #555;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <br />
+    <br />
+    <h1>Libros de Arquitectura de Software</h1>
+    <div class="book-container">
+        <div class="book">
+            <img src="~/img/SAP.jfif" alt="Software Architecture in Practice">
+            <div class="book-title">Software Architecture in Practice</div>
+            <div class="book-description">Este libro ofrece una comprensión profunda de los conceptos, patrones y prácticas de la arquitectura de software. Se enfoca en cómo los sistemas arquitectónicos afectan la calidad de los sistemas y proporciona casos de estudio reales para ilustrar los principios teóricos.</div>
+        </div>
+        <div class="book">
+            <img src="~/img/CA.webp" alt="Clean Architecture">
+            <div class="book-title">Clean Architecture</div>
+            <div class="book-description">Conocido por su serie de libros "Clean Code", Robert C. Martin aborda en este libro los principios y patrones necesarios para diseñar y estructurar software limpio y mantenible. Explica conceptos como la separación de intereses, el principio de responsabilidad única y la arquitectura de capas.</div>
+        </div>
+        <div class="book">
+            <img src="~/img/DDIA.jpg" alt="Designing Data-Intensive Applications">
+            <div class="book-title">Designing Data-Intensive Applications</div>
+            <div class="book-description">Este libro es una guía comprensiva para diseñar aplicaciones que manejen grandes volúmenes de datos, enfocándose en la confiabilidad, escalabilidad y mantenibilidad. Martin Kleppmann explora diversas tecnologías y arquitecturas de bases de datos, procesamiento de datos y sistemas distribuidos.</div>
+        </div>
+        <!-- Añade más libros según sea necesario -->
+    </div>
+</body>
+</html>

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("T2_ESCATE_ALEXANDER")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26123833e095b03becb0f674445f6d566eeca9fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("T2_ESCATE_ALEXANDER")]
 [assembly: System.Reflection.AssemblyTitleAttribute("T2_ESCATE_ALEXANDER")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

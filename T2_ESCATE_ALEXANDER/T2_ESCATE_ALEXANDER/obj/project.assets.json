@@ -8566,19 +8566,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\escat\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\GitHub\\Clon\\T3_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj",
       "projectName": "T2_ESCATE_ALEXANDER",
-      "projectPath": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj",
-      "packagesPath": "C:\\Users\\escat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\obj\\",
+      "projectPath": "C:\\Users\\PC\\Desktop\\GitHub\\Clon\\T3_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\GitHub\\Clon\\T3_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\escat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8655,7 +8655,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

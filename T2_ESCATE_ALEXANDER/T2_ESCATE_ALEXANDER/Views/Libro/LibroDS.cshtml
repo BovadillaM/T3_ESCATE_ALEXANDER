@@ -1,0 +1,87 @@
+﻿
+@{
+    ViewData["Title"] = "Libros de Diseño de Software";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    ViewData["Title"] = "Libros de  Diseño de Software";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: rgb(136,135,135);
+            background: linear-gradient(90deg, rgba(136,135,135,0.7483368347338936) 0%, rgba(85,83,83,1) 100%);
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .book-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .book {
+            border: 1px solid #ddd;
+            padding: 10px;
+            border-radius: 8px;
+            text-align: center;
+            background-color: #fff;
+        }
+
+            .book img {
+                width: 100%;
+                height: auto;
+                border-radius: 8px;
+            }
+
+        .book-title {
+            font-size: 1.2em;
+            margin: 10px 0;
+        }
+
+        .book-description {
+            font-size: 0.9em;
+            color: #555;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <br />
+    <br />
+    <h1>Libros de Diseño de Software</h1>
+    <div class="book-container">
+        <div class="book">
+            <img src="~/img/DPE.jfif" alt="Design Patterns: Elements of Reusable Object-Oriented Software">
+            <div class="book-title">Design Patterns: Elements of Reusable Object-Oriented Software</div>
+            <div class="book-description">Este libro es un clásico en el diseño de software. Presenta un catálogo de patrones de diseño, cada uno describiendo un problema común en el diseño de software orientado a objetos y su solución correspondiente. Los patrones incluidos abordan temas como la creación de objetos, la estructuración de clases y la gestión de relaciones entre objetos. A través de ejemplos claros y explicaciones detalladas, los autores demuestran cómo aplicar estos patrones para promover la reutilización de código, la flexibilidad y la mantenibilidad en el diseño de software.    </div>
+        </div>
+        <div class="book">
+            <img src="~/img/PE.webp" alt="Patterns of Enterprise Application Architecture" by Martin Fowler">
+            <div class="book-title">"Patterns of Enterprise Application Architecture" by Martin Fowler</div>
+            <div class="book-description">Martin Fowler analiza patrones comunes utilizados en el diseño de aplicaciones empresariales. Estos patrones ofrecen soluciones probadas para problemas recurrentes en el diseño de software empresarial, como la gestión de transacciones, la persistencia de datos y la presentación de información. El libro describe cada patrón en detalle, explicando su propósito, estructura y posibles variaciones. A través de ejemplos de código y escenarios del mundo real, Fowler demuestra cómo aplicar estos patrones para diseñar sistemas empresariales robustos, escalables y mantenibles.</div> 
+      </div>
+        <div class="book">
+            <img src="~/img/DDT.jpg" alt="Designing Data-Intensive Applications">
+            <div class="book-title">Designing Data-Intensive Applications</div>
+            <div class="book-description">Eric Evans presenta el diseño dirigido por dominio (DDD) como un enfoque para abordar la complejidad en el desarrollo de software. DDD se centra en comprender y modelar el dominio del problema, utilizando un lenguaje ubicuo compartido entre los expertos en dominio y los desarrolladores de software. El libro explora técnicas para identificar y definir límites de contexto, diseñar modelos de dominio ricos y evolucionar continuamente el diseño del software a medida que se comprende mejor el dominio del problema. Con ejemplos del mundo real y pautas prácticas, Evans muestra cómo aplicar DDD para crear sistemas flexibles y adaptables que reflejen con precisión el dominio del problema.</div>
+        </div>
+        <!-- Añade más libros según sea necesario -->
+    </div>
+</body>
+</html>
