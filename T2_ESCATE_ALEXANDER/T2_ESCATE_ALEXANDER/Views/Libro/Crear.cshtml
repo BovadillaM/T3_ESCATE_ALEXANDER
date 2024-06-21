@@ -1,0 +1,49 @@
+﻿@model T2_ESCATE_ALEXANDER.Models.Libro
+
+<h2>Crear Libro</h2>
+
+<form asp-action="Crear">
+    <div class="form-group">
+        <label asp-for="Titulo" class="control-label"></label>
+        <input asp-for="Titulo" class="form-control" />
+        <span asp-validation-for="Titulo" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Autor" class="control-label"></label>
+        <input asp-for="Autor" class="form-control" />
+        <span asp-validation-for="Autor" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Tema" class="control-label"></label>
+        <input asp-for="Tema" class="form-control" />
+        <span asp-validation-for="Tema" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Editorial" class="control-label"></label>
+        <input asp-for="Editorial" class="form-control" />
+        <span asp-validation-for="Editorial" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="AñodePublicacion" class="control-label"></label>
+        <input asp-for="AñodePublicacion" class="form-control" />
+        <span asp-validation-for="AñodePublicacion" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Paginas" class="control-label"></label>
+        <input asp-for="Paginas" class="form-control" />
+        <span asp-validation-for="Paginas" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Categoria" class="control-label"></label>
+        <input asp-for="Categoria" class="form-control" />
+        <span asp-validation-for="Categoria" class="text-danger"></span>
+    </div>
+    <a asp-action="Index" class="btn btn-secondary">Volver a la Lista</a>
+    <button type="submit" class="btn btn-primary">Guardar</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

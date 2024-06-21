@@ -1,0 +1,692 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\t2_escate_alexander.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\t2_escate_alexander.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\datos\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\datos\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\libro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\libro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\libro\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\libro\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\distribuidor\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\distribuidor\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\distribuidor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\distribuidor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\libro\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\libro\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\libro\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\libro\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\libro\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\libro\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\distribuidor\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\distribuidor\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\models\\distribuidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\models\\distribuidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\controllers\\distribuidorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\controllers\\distribuidorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\migrations\\20240613194012_scaffoldidentityrazorclasslib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\migrations\\20240613194012_scaffoldidentityrazorclasslib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\migrations\\20240613192833_escatealexandert3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\migrations\\20240613192833_escatealexandert3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\distribuidor\\distribuidoresmundo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\distribuidor\\distribuidoresmundo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\distribuidor\\distribuidoresperu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\distribuidor\\distribuidoresperu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\distribuidor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\distribuidor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\t2_escate_alexander.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\t2_escate_alexander.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|c:\\users\\escat\\source\\repos\\t2_escatealexander\\t2_escate_alexander\\t2_escate_alexander\\migrations\\20240620221254_renameaniotoa\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}|T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj|solutionrelative:t2_escate_alexander\\migrations\\20240620221254_renameaniotoa\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:51:30.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAQwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:50:39.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T10:50:29.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T10:41:49.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T10:41:35.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Controllers\\LibroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:25:37.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\SeedData.cs",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\SeedData.cs",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\SeedData.cs",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\SeedData.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:38:22.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Program.cs",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Program.cs",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Program.cs",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:29:49.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "T2_ESCATE_ALEXANDER.csproj",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T10:38:05.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T19:50:50.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Libro\\Crear.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\Libro\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Libro\\Crear.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\Libro\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T22:27:02.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Datos\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Datos\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Datos\\AplicationDbContext.cs",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Datos\\AplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:06:08.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T01:25:20.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T23:20:33.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Libro\\Index.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\Libro\\Index.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Libro\\Index.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\Libro\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T22:14:59.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\Eliminar.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\Eliminar.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAIBJwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T01:11:17.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\Index.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\Index.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwCcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T01:11:28.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\appsettings.json",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\appsettings.json",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\appsettings.json",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T00:26:59.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Libro\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\Libro\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Libro\\Eliminar.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\Libro\\Eliminar.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwCMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T22:17:26.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Libro\\Editar.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\Libro\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Libro\\Editar.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\Libro\\Editar.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwCoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T22:16:54.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Models\\Libro.cs",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Models\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:11:46.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\Crear.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\Crear.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\Crear.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAIBJwD8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T01:10:52.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Detalles.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Libro\\Detalles.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\Libro\\Detalles.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Libro\\Detalles.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\Libro\\Detalles.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwB8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T22:50:37.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T01:02:07.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:09:49.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Distribuidor.cs",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Models\\Distribuidor.cs",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Models\\Distribuidor.cs",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Models\\Distribuidor.cs",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Models\\Distribuidor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:10:02.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T06:21:47.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240620221254_RenameAnioToA\u00F1o.cs",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Migrations\\20240620221254_RenameAnioToA\u00F1o.cs",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Migrations\\20240620221254_RenameAnioToA\u00F1o.cs",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Migrations\\20240620221254_RenameAnioToA\u00F1o.cs",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Migrations\\20240620221254_RenameAnioToA\u00F1o.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:12:54.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DistribuidorController.cs",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Controllers\\DistribuidorController.cs",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Controllers\\DistribuidorController.cs",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Controllers\\DistribuidorController.cs",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Controllers\\DistribuidorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:54:27.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240613194012_scaffoldidentityRazorClassLib.cs",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Migrations\\20240613194012_scaffoldidentityRazorClassLib.cs",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Migrations\\20240613194012_scaffoldidentityRazorClassLib.cs",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Migrations\\20240613194012_scaffoldidentityRazorClassLib.cs",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Migrations\\20240613194012_scaffoldidentityRazorClassLib.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:40:12.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-13T19:45:08.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240613192833_ESCATEALEXANDERT3.cs",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Migrations\\20240613192833_ESCATEALEXANDERT3.cs",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Migrations\\20240613192833_ESCATEALEXANDERT3.cs",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Migrations\\20240613192833_ESCATEALEXANDERT3.cs",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Migrations\\20240613192833_ESCATEALEXANDERT3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:28:33.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:53:53.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAIBZwAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T01:02:10.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DistribuidoresMundo.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\DistribuidoresMundo.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\DistribuidoresMundo.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\DistribuidoresMundo.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\DistribuidoresMundo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T09:01:08.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T01:00:11.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DistribuidoresPeru.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\DistribuidoresPeru.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\DistribuidoresPeru.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\DistribuidoresPeru.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\DistribuidoresPeru.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAEBVwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T09:00:28.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\Editar.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\Editar.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\Distribuidor\\Editar.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwEAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T01:11:09.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T06:33:47.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\Properties\\launchSettings.json",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAABRwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T01:03:15.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "T2_ESCATE_ALEXANDER",
+              "DocumentMoniker": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj",
+              "RelativeDocumentMoniker": "T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj",
+              "ToolTip": "C:\\Users\\escat\\source\\repos\\T2_ESCATEALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj",
+              "RelativeToolTip": "T2_ESCATE_ALEXANDER\\T2_ESCATE_ALEXANDER.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T01:03:12.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

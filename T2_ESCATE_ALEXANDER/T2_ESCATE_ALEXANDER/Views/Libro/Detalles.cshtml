@@ -1,0 +1,34 @@
+﻿@model T2_ESCATE_ALEXANDER.Models.Libro
+
+<h2>Detalles del Libro</h2>
+
+<div class="form-group">
+    <label>Título</label>
+    <p class="form-control-static">@Model.Titulo</p>
+</div>
+<div class="form-group">
+    <label>Autor</label>
+    <p class="form-control-static">@Model.Autor</p>
+</div>
+<div class="form-group">
+    <label>Tema</label>
+    <p class="form-control-static">@Model.Tema</p>
+</div>
+<div class="form-group">
+    <label>Editorial</label>
+    <p class="form-control-static">@Model.Editorial</p>
+</div>
+<div class="form-group">
+    <label>Año de Publicación</label>
+    <p class="form-control-static">@Model.AñodePublicacion</p>
+</div>
+<div class="form-group">
+    <label>Páginas</label>
+    <p class="form-control-static">@Model.Paginas</p>
+</div>
+<div class="form-group">
+    <label>Categoría</label>
+    <p class="form-control-static">@Model.Categoria</p>
+</div>
+
+<a asp-action="Index" class="btn btn-secondary">Volver a la Lista</a>

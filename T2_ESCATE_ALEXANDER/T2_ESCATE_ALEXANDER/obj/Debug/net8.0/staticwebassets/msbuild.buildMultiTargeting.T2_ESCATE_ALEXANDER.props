@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\T2_ESCATE_ALEXANDER.props" />
+</Project>

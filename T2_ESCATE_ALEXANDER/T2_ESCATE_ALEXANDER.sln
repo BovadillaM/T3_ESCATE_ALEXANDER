@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2_ESCATE_ALEXANDER", "T2_ESCATE_ALEXANDER\T2_ESCATE_ALEXANDER.csproj", "{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C9DB1B-40E4-4E28-8C92-CA7CCB4020CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB2B57A3-94B7-4AE0-841B-F541F24A3672}
+	EndGlobalSection
+EndGlobal

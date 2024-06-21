@@ -1,0 +1,46 @@
+﻿@model IEnumerable<T2_ESCATE_ALEXANDER.Models.Libro>
+
+<h2>Lista de Libros</h2>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Título</th>
+                <th>Autor</th>
+                <th>Tema</th>
+                <th>Editorial</th>
+                <th>Año de Publicación</th>
+                <th>Páginas</th>
+                <th>Categoría</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Titulo</td>
+                    <td>@item.Autor</td>
+                    <td>@item.Tema</td>
+                    <td>@item.Editorial</td>
+                    <td>@item.AñodePublicacion</td>
+                    <td>@item.Paginas</td>
+                    <td>@item.Categoria</td>
+                    <td>
+                        <a asp-action="Detalles" class="btn btn-warning"  asp-route-id="@item.Id">Detalles</a> |
+                        <a asp-action="Editar" class="btn btn-success" asp-route-id="@item.Id">Editar</a> |
+                        <a asp-action="Eliminar" class="btn btn-danger"  asp-route-id="@item.Id">Eliminar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No hay libros disponibles.</p>
+}
+
+<a asp-action="Crear" class="btn btn-primary">Crear Nuevo</a>

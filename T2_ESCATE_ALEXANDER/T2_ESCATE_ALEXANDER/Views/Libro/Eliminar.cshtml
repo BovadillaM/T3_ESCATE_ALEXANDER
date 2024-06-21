@@ -1,0 +1,38 @@
+﻿@model T2_ESCATE_ALEXANDER.Models.Libro
+
+<h2>Eliminar Libro</h2>
+
+<form asp-action="Eliminar">
+    <div class="form-group">
+        <input type="hidden" asp-for="Id" />
+        <label asp-for="Titulo" class="control-label"></label>
+        <input asp-for="Titulo" class="form-control" disabled />
+    </div>
+    <div class="form-group">
+        <label asp-for="Autor" class="control-label"></label>
+        <input asp-for="Autor" class="form-control" disabled />
+    </div>
+    <div class="form-group">
+        <label asp-for="Tema" class="control-label"></label>
+        <input asp-for="Tema" class="form-control" disabled />
+    </div>
+    <div class="form-group">
+        <label asp-for="Editorial" class="control-label"></label>
+        <input asp-for="Editorial" class="form-control" disabled />
+    </div>
+    <div class="form-group">
+        <label asp-for="AñodePublicacion" class="control-label"></label>
+        <input asp-for="AñodePublicacion" class="form-control" disabled />
+    </div>
+    <div class="form-group">
+        <label asp-for="Paginas" class="control-label"></label>
+        <input asp-for="Paginas" class="form-control" disabled />
+    </div>
+    <div class="form-group">
+        <label asp-for="Categoria" class="control-label"></label>
+        <input asp-for="Categoria" class="form-control" disabled />
+    </div>
+
+    <a asp-action="Index" class="btn btn-secondary">Volver a la Lista</a>
+    <button type="submit" class="btn btn-danger">Eliminar Libro</button>
+</form>
